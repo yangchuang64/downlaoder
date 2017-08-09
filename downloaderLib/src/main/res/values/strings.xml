@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">downloadLib</string>
+    <string name="download_wait">等待</string>
+    <string name="download_start">开始</string>
+    <string name="download_pause">暂停</string>
+    <string name="download_resume">继续</string>
+    <string name="downloading">正在下载...</string>
+    <string name="download_complete">完成</string>
+    <string name="download_retry">重试</string>
+    <string name="download_status_wait">等待下载</string>
+    <string name="download_status_start">下载开始</string>
+    <string name="download_status_pause">下载暂停</string>
+    <string name="download_status_cancel">下载已取消</string>
+    <string name="download_status_complete">下载完成</string>
+    <string name="download_status_fail">下载失败</string>
+    <string name="download_status_fail_with_code">下载失败,错误码%1$d</string>
+    <string name="download_size_desc">大小:%1$s,已完成:%2$s</string>
+</resources>

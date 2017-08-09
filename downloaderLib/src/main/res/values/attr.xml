@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 下载按钮 -->
+    <declare-styleable name="download">
+        <attr name="text" format="string"></attr>
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="progressDrawable" format="reference"></attr>
+        <attr name="textComplete" format="string"></attr>
+    </declare-styleable>
+</resources>
